@@ -2,6 +2,6 @@
 
 :computer:  -Computer Science Student at Oregon State University (Graduating March 2022) 
 
-:microscope: -Former Middle and High School Science Teacher
+:sunny: - Incoming SWE Intern at InfluxData (Summer 2021)
 
-:sparkles: - Interested in projects that contribute to social good, especially educational and civic technology. 
+:microscope: -Former Middle and High School Science Teacher
