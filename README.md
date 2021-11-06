@@ -1,7 +1,3 @@
-# Hey there! :smiley:
+# Hi, I'm Michelle 👋
 
-:computer:  -Computer Science Student at Oregon State University (Graduating March 2022) 
-
-:sunny: - SWE Intern at InfluxData, Edge Team
-
-:microscope: -Former Middle and High School Science Teacher
+Currently I'm a computer science student at Oregon State University (Graduating March 2022) and software engineer intern at InfluxData (InfluxDB). As a former science teacher who decided to transition into the tech industry, I love to continually learn and challenge myself to approach problems from different angles.
